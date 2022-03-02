@@ -1,0 +1,5 @@
+.vscode
+vision.zip
+**/*.o
+multiCameraServerExample
+Raspbian10-Windows64-Toolchain-8.3.0
